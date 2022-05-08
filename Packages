@@ -1,0 +1,64 @@
+Package: com.kurdosurce.appsyncunified
+Version: 104.0
+Section: Tweaks
+Description: !چارەسەری ڕیڤۆك
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Installed-Size: 732
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+MD5sum: 1fd9389d729bbf146fb559dc68381c8e
+Size: 89538
+Filename: debs/com.kurdosurce.appsyncunified.deb
+
+Package: com.kurdosurce.cracktool
+Description: کڕاککردنی هەندێ تويک
+Version: 4.0~beta10b
+Section: Utilities
+Maintainer: Julio
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 9 - 14)
+Author: julioverne
+MD5sum: 7be4c68a1fc2e3cc77f84b2da3eb5405
+Size: 2957318
+Filename: debs/com.kurdosurce.cracktool.deb
+
+Architecture: iphoneos-arm
+Package: com.kurdosurce.cydown
+Name: CyDown
+Version: 7.1.2
+Description: بەڕێوەبەری داگرتنی سیدیا تایبەتمەندیە زیادەکان
+Section: System
+Depends: firmware (>=13.0), coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Tags: compatible_min::ios13.0, compatible_max::ios15.0
+Author: julioverne <julioverne@me.com>
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+MD5sum: f9439bc2cb3c2bd585383f182b6c8a04
+Size: 4361040
+Filename: debs/com.kurdosurce.cydown.deb
+
+Package: com.kurdsource.cercube
+Name: Cercube for YouTube
+Description: داگرتنی ڤیدیۆکانی یوتوب و زیاتر
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Version: 5.3.9
+Installed-Size: 14704
+MD5sum: f633540bfb96bad57c301d2eb7478eff
+Size: 5148528
+Filename: debs/com.kurdsource.cercube.deb
+
+

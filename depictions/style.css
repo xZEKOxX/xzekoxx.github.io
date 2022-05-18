@@ -1,0 +1,86 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000;
+        color: white;
+    }
+    .container {
+        background-color: #1c1c1d;
+        box-shadow: 0px 0px 1px 0.2px white;
+    }
+    .text {
+        color: hsla(0,0%,100%,.55);
+    }
+}
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #efeff4;
+        color: rgba(0,0,0,.45);
+    }
+    .container {
+        background-color: #fff;
+        box-shadow: 0px 0px 1px 0.2px black;
+    }
+    .text {
+        color: rgba(0,0,0,.45);
+    }
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+
+    width: 100%;
+    height: 100%;
+}
+.container {
+    display: flex;
+    overflow: hidden;
+    height: fit-content;
+    padding: 15px 0 15px 25px;
+}
+.image {
+    width: 50px;
+    border-radius: 20%;
+    margin-right: 10px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.all { 
+    width: 100%;
+}
+.text {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    text-align: left;
+}
+.info {
+    padding-left: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+.screen {
+    display: inline;
+    flex-direction: row;
+    width: 100vw;
+}
+.src {
+    width: 175px;
+    height: 346px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.button {
+    background: none;
+    color: white;
+    border: 0;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Orelega One', cursive;
+    font-size: 25px;
+    outline: 2px solid whitesmoke;
+}

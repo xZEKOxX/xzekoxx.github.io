@@ -1,0 +1,45 @@
+<package>
+	<name>Cercube youtube</name>
+	
+	<info>
+		<version>5.3.9</version>
+	</info>
+
+    <list>
+		<description>
+	 	-Save videos in high resolution.
+		</description>
+		<description>
+		- Save videos as audio only.
+		</description>
+		- Save public playlists (beta).
+		<description>
+		- Set default download quality.
+		</description>
+		- Enable background playback.
+		<description>
+		- Set default player quality on WiFi.
+		</description>
+		- Play in high quality on Mobile Data.
+		<description>
+		- Play YouTube videos using PiP.
+		</description>
+		<description>
+		- Manage and share downloads to any app.
+		</description>
+	</list>
+
+	<screenshots>
+		<screen>
+			<image>youtube.jpg</image>
+		</screen>
+
+		<screen>
+			<image>youtube2.jpg</image>
+		</screen>
+
+		<icon>icon.png</icon>
+
+	</screenshots>
+
+</package>

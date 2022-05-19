@@ -1,0 +1,13 @@
+Name: 
+Package: 
+Version: 
+Section: Tweaks
+Maintainer:
+Author: 
+Depends: 
+Architecture: iphoneos-arm
+Installed-Size: 
+Description: 
+MD5sum: 
+Size: 
+Filename: debs/com.kurdosurce.NameTweak.deb

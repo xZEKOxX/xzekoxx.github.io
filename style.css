@@ -5,20 +5,19 @@
     padding: 0;
 }
 body {
-    background: #004643;
+    background: #FFCC00;
 }
-.disclaimer {display: none;}
 #title {
     font-family: 'Courier New', Courier, monospace;
     margin-top: 5px;
 }
 .container {
     position: relative;
-    width: 95%;
+    width: 97%;
     list-style: none;
 }
 .container li {
-    background: #f9bc60;
+    background: #F0D879;
     height: 50px;
     border-radius: 8px;
     margin-top: 10px;
@@ -30,7 +29,7 @@ body {
 }
 .container li a {
     display: flex;
-    margin-left: 5px;
+    margin-left: 7px;
     position: relative;
     top: 5px;
     text-decoration: none;

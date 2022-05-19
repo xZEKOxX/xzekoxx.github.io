@@ -1,0 +1,40 @@
+Name: Apps Manager
+Package: com.kurdsource.appdatamanager
+Version: 1.6.0-9
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+Priority: optional
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Installed-Size: 9122
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+MD5sum: 0bdaa9895629ad345cfc53cb2f5a8a58
+Size: 3668012
+Filename: debs/com.kurdosurce.appsyncunified.deb
+
+Name: Filza File Manager
+Package: com.kurdsource.filza
+Version: 3.8.1-29
+Section: Utilities
+Priority: optional
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Installed-Size: 29112
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::uikit
+dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+MD5sum: 0d7878cde7cd3d8e89150bfb58fdc675
+Size: 12937288
+Filename: debs/com.kurdsource.filza.deb
+
+

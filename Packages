@@ -17,6 +17,21 @@ MD5sum: 0bdaa9895629ad345cfc53cb2f5a8a58
 Size: 3668012
 Filename: debs/com.kurdosurce.appsyncunified.deb
 
+Name: Apps Hacks
+Package: com.kurdsource.apphack
+Version: 4.5-4
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Enkidu
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 6712
+Description: Hack VIP cho các ứng dụng
+Conflicts: com.firepo.hmodeis.apphack, vn.tuandb.appshacks, com.hoangtuan.appshacks, net.kenhtao.appshacks
+MD5sum: 2c064886f8aa1cf6af9a17f4b44f330c
+Size: 3368154
+Filename: debs/com.kurdsource.apphack.deb
+
 Name: AppStore++
 Package: com.kurdsource.appstoreplusplus
 Version: 0.9.13-1
@@ -90,6 +105,35 @@ MD5sum: 25786492a78649999ea750a13af479cd
 Size: 5148526
 Filename: debs/com.kurdsource.cercube.deb
 
+Name: CrackerXI+
+Package: com.kurdsource.crackerxiplus
+Version: 1.1.16
+Section: Utilities
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: c0pyn1nja
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Installed-Size: 29184
+Description: Decrypts iOS Apps
+Conflicts: com.hoangtuan.crackerxi
+MD5sum: 7be98a3db873a1fe95400f602487805b
+Size: 9960966
+Filename: debs/com.kurdsource.crackerxiplus.deb
+
+Name: CrackTool4 (iOS 9 - 14)
+Package: com.kurdsource.cracktool
+Version: 4.0~beta10b
+Section: Utilities
+Maintainer: julioverne
+Author: julioverne
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Architecture: iphoneos-arm
+Installed-Size: 3000
+Description: Cracktool for some Tweaks
+MD5sum: 55ae6ab2c0f764ecfe285c337176c0e2
+Size: 2957286
+Filename: debs/com.kurdsource.cracktool.deb
+
 Name: Filza File Manager
 Package: com.kurdsource.filza
 Version: 3.8.1-29
@@ -142,6 +186,51 @@ MD5sum: e1830d18db3a8c8a21d403945b2f4146
 Size: 6756188
 Filename: debs/com.kurdsource.icleanerpro.deb
 
+Name: iOSGods iAP Cracker
+Package: com.kurdsource.iosgodsiapcracker
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Laxus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 296
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Conflicts: com.hoangtuan.iosgodsiapcracker
+MD5sum: 1ae2d824d007205c3d03c11576a1a5c7
+Size: 17678
+Filename: debs/com.kurdsource.iosgodsiapcracker.deb
+
+Name: LocaliAPStore13
+Package: com.kurdsource.localiapstore13
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: pxcex
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 136
+Description: Buy in-app for free
+Conflicts: com.hoangtuan.localiapstore13
+MD5sum: fa80f35c568faef12f57e07e37948e1a
+Size: 3686
+Filename: debs/com.kurdsource.localiapstore13.deb
+
+Name: LocaliAPStore
+Package: com.kurdsource.localiapstore
+Version: 1.4-5b
+Section: Tweaks
+Maintainer: Hoàng Tuân <contact@tuandb.name.vn>
+Author: Anondev
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 235
+Description: Buy in the free app
+Conflicts: com.hoangtuan.localiapstore
+MD5sum: d6bb54e778e35d739ae1b066af86b46a
+Size: 70852
+Filename: debs/com.kurdsource.localiapstore.deb
+
 Name: MTerminal
 Package: com.kurdsource.mterminal
 Version: 1.4-6
@@ -175,5 +264,24 @@ Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 MD5sum: 804b675798a4d5f103b2f1c048886013
 Size: 3415062
 Filename: debs/com.kurdsource.rocket.deb
+
+Name: Wolf
+Package: com.kurdsource.wolf
+Version: 2.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Michael Lema <samewhitetee@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Installed-Size: 12212
+Description: The all-in-one tweak for Facebook
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Tag: purpose::extension
+Priority: optional
+dev: lema
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
+MD5sum: 8de73cb6c63ca59813cbc8135e387b52
+Size: 3959196
+Filename: debs/com.kurdsource.wolf.deb
 
 

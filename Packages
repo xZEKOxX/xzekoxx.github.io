@@ -17,6 +17,21 @@ MD5sum: 0bdaa9895629ad345cfc53cb2f5a8a58
 Size: 3668012
 Filename: debs/com.kurdosurce.appsyncunified.deb
 
+Name: A-Bypass
+Package: com.kurdsource.a-bypass
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Depends: firmware (>=12.0), mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 165
+Description: Super Jailbreak detection bypass!
+Tags: compatible_min::ios12.0, compatible_max::ios14.6
+MD5sum: 9d9537358e7604149ed6f6a71368f65b
+Size: 165198
+Filename: debs/com.kurdsource.a-bypass.deb
+
 Name: Apps Hacks
 Package: com.kurdsource.apphack
 Version: 4.5-4
@@ -66,6 +81,55 @@ MD5sum: b607eeae9bdc0b221bcccfcf3849df95
 Size: 89540
 Filename: debs/com.kurdsource.appsyncunified.deb
 
+Name: AudioRecorder XS (iOS 12/13/14)
+Package: com.kurdsource.audiorecorderxs
+Version: 3.7-42k
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), repo.dpkghub.limneos
+Architecture: iphoneos-arm
+Installed-Size: 5284
+Description: Most Advanced iOS Call Recorder Ever!
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Tags: compatible_min::ios12.0, compatible_max::ios14.3
+MD5sum: 62f570d094a89bbdab8a1ed39b9cd20d
+Size: 5284984
+Filename: debs/com.kurdsource.audiorecorderxs.deb
+
+Name: AudioRecorder XS -No Dropbox-
+Package: com.kurdsource.audiorecorderxsdrop
+Version: 3.8-12
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Architecture: iphoneos-arm
+Installed-Size: 1850
+Description: Most Advanced iOS Call Recorder Ever!
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+MD5sum: 175fc93be867a9a913ae2efdf9c0b6a9
+Size: 1752456
+Filename: debs/com.kurdsource.audiorecorderxsdrop.deb
+
+Name: BioProtect XS (iOS 12/13/14)
+Package: com.kurdsource.bioprotectxs
+Version: 4.5-19
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 829
+Description: Protect your apps with Touch/Face ID!
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+MD5sum: 9d540422fea776761f21a6047ca241bb
+Size: 829136
+Filename: debs/com.kurdsource.bioprotectxs.deb
+
 Name: CCSupport
 Package: com.kurdsource.ccsupport
 Version: 1.3.7
@@ -104,6 +168,23 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 MD5sum: 25786492a78649999ea750a13af479cd
 Size: 5148526
 Filename: debs/com.kurdsource.cercube.deb
+
+Name: Choicy
+Package: com.kurdsource.choicy
+Version: 1.4.1-1
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Architecture: iphoneos-arm
+Installed-Size: 251
+Description: Advanced Tweak Configuration!
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+MD5sum: ee07a1892bc4549288d09ab53d0c51b5
+Size: 250826
+Filename: debs/com.kurdsource.choicy.deb
 
 Name: CrackerXI+
 Package: com.kurdsource.crackerxiplus
@@ -153,6 +234,23 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 MD5sum: 5d968558e06c026b3a500ec5f879a944
 Size: 10254340
 Filename: debs/com.kurdsource.filza.deb
+
+Name: FlyJB X
+Package: com.kurdsource.flyjbx
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Zekoios
+Depends: firmware (>=12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 766
+Description: You can HIDE Doing jailbreak your iDevice.
+Icon: file:///Applications/FlyJB.app/AppIcon60x60@2x.png
+Conflicts: kr.xsf1re.flyjb
+Tags: compatible_min::ios12.0, compatible_max::ios14.5
+MD5sum: 195491c9c9f531863bef5d704b67318b
+Size: 766258
+Filename: debs/com.kurdsource.flyjbx.deb
 
 Name: GoodWiFi
 Package: com.kurdsource.goodwifi
@@ -248,6 +346,22 @@ MD5sum: 02d909cf83c76eea951d5183b08f47ef
 Size: 130722
 Filename: debs/com.kurdsource.mterminal.deb
 
+Name: PreferenceLoader
+Package: com.kurdsource.preferenceloader
+Version: 2.2.6
+Section: System
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 68
+Description: load preferences in style
+dev: dustinhowett
+Tag: role::hacker, purpose::library
+MD5sum: 205249f94ffab4fb70fb9a8e3a0c361d
+Size: 67634
+Filename: debs/com.kurdsource.preferenceloader.deb
+
 Name: Rocket for Instagram
 Package: com.kurdsource.rocket
 Version: 3.7.42
@@ -264,6 +378,42 @@ Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 MD5sum: 804b675798a4d5f103b2f1c048886013
 Size: 3415062
 Filename: debs/com.kurdsource.rocket.deb
+
+Name: Titan
+Package: com.kurdsource.titan
+Version: 1.0.3k
+Section: Tweaks
+Maintainer: Zekoios <Zekoiioss@gmail.com>
+Author: Zekoios
+Depends: firmware (>=13.0), firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Installed-Size: 158
+Description: True picture in picture support for all your favorite apps.
+Conflicts: com.spicat.youpip
+Tags: compatible_min::ios13.0, compatible_max::ios14.5
+Tag: purpose::extension
+SomeOtherEntryToControl: True
+MD5sum: 8f09823118bbe0bee9f60373e01d0772
+Size: 158214
+Filename: debs/com.kurdsource.titan.deb
+
+Name: VoiceChanger XS (iOS 11 to 14)
+Package: com.kurdsource.voicechangerx
+Version: 2.2-94
+Section: Tweaks
+Maintainer: Zekoios <Zekoiioss@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Change your voice during a call!
+Installed-Size: 459
+Conflicts:com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+dev: limneos
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/voicechanger@2x.png
+MD5sum: 701ef16aca8e34953dc66a556d8a6813
+Size: 458960
+Filename: debs/com.kurdsource.voicechangerx.deb
 
 Name: Wolf
 Package: com.kurdsource.wolf
@@ -283,5 +433,22 @@ Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
 MD5sum: 8de73cb6c63ca59813cbc8135e387b52
 Size: 3959196
 Filename: debs/com.kurdsource.wolf.deb
+
+Name: YTAdBlock
+Package: com.kurdsource.ytadblock
+Version: 15.42.5
+Section: Tweaks
+Maintainer: Zekoios <Zekoiioss@gmail.com>
+Author: Zekoios
+Depends: firmware (>=12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 14
+Description: An awesome YouTube AdBlock tweak!
+Tags: compatible_min::ios12.0, compatible_max::ios14.3
+Tag: role::enduser
+SomeOtherEntryToControl: True
+MD5sum: b64e31f37b85881d4ad506779166752c
+Size: 14458
+Filename: debs/com.kurdsource.ytadblock.deb
 
 

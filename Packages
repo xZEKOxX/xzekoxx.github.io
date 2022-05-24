@@ -40,13 +40,13 @@ Maintainer: Classic
 Author: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.cokepokes.letsdowngrade | net.kenhtao.letsdowngrade
 Architecture: iphoneos-arm
-Installed-Size: 664274
+Installed-Size: 349
 Description: Downgrade Apps from appstore
 Conflicts: com.unlimapps.uaupdatetools
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Priority: optional
-MD5sum: ae15582535e8a6f762fe410e313f589d
-Size: 663188
+MD5sum: 4a8e714705de9571a888bf4ccb409b65
+Size: 357476
 Filename: debs/com.kurdsource.appstoreplusplus.deb
 
 Name: AppSync Unified
@@ -144,14 +144,14 @@ Author: TIGI Software <satashi2009@gmail.com>
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm
-Installed-Size: 29112
+Installed-Size: 10254
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::uikit
 dev: satashi2009
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
-MD5sum: 0d7878cde7cd3d8e89150bfb58fdc675
-Size: 12937288
+MD5sum: 5d968558e06c026b3a500ec5f879a944
+Size: 10254340
 Filename: debs/com.kurdsource.filza.deb
 
 Name: GoodWiFi
@@ -162,11 +162,11 @@ Maintainer: Julio
 Author: julioverne
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Installed-Size: 98000
+Installed-Size: 55
 Description: See your password connection 
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
-MD5sum: 2e3def37cfcc649001c88f96146d7bc0
-Size: 97808
+MD5sum: af34068eefbb6d2acbb53f8cb8e4b76e
+Size: 56768
 Filename: debs/com.kurdsource.goodwifi.deb
 
 Name: iCleaner Pro
@@ -177,13 +177,13 @@ Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Architecture: iphoneos-arm
-Installed-Size: 4786966
+Installed-Size: 4767
 Description: Clean your iPhone
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
-MD5sum: e1830d18db3a8c8a21d403945b2f4146
-Size: 6756188
+MD5sum: 477590954daa0d7f40e86299757880b3
+Size: 4768140
 Filename: debs/com.kurdsource.icleanerpro.deb
 
 Name: iOSGods iAP Cracker

@@ -46,7 +46,7 @@ dev: cunstuck
 Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/AFaker.bundle/AFaker@2x.png
 MD5sum: 39f3e98a0bb69a03836717db33f77ade
-Size: 173000
+Size: 172628
 Filename: debs/com.kurdsource.afakerx.deb
 
 Name: AFSocial

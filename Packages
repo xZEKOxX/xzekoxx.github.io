@@ -466,7 +466,7 @@ Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/AFaker.bundle/AFaker@2x.png
 MD5sum: 39f3e98a0bb69a03836717db33f77ade
 Size: 173
-Filename: debs/com.kurdosurce.afakerx.deb
+Filename: debs/com.kurdsource.afakerx.deb
 
 Name: AFSocial
 Package: com.kurdsource.afsocial
@@ -481,6 +481,6 @@ Description:
 Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
 MD5sum: 9d165462f1e537bdd043c6208ea22677
 Size: 2679
-Filename: debs/com.kurdosurce.afsocial.deb
+Filename: debs/com.kurdsource.afsocial.deb
 
 

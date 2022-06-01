@@ -451,4 +451,36 @@ MD5sum: b64e31f37b85881d4ad506779166752c
 Size: 14458
 Filename: debs/com.kurdsource.ytadblock.deb
 
+Name: AFakerX
+Package: com.kurdsource.afakerx
+Version: 2.3-7
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: CUNSTUCK <cunstuck@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Installed-Size: 173
+Description: hide secret App and open with password.
+dev: cunstuck
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/AFaker.bundle/AFaker@2x.png
+MD5sum: 39f3e98a0bb69a03836717db33f77ade
+Size: 173
+Filename: debs/com.kurdosurce.afakerx.deb
+
+Name: AFSocial
+Package: com.kurdsource.afsocial
+Version: 2.5.1k
+Section: Tweaks
+Maintainer: √ñnder Azazi <onderazazi@hotmail.com>
+Author: Azozz ALFiras
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, sileoturkiye.azflibrary (>= 2.9)
+Architecture: iphoneos-arm
+Installed-Size: 2679
+Description: 
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+MD5sum: 9d165462f1e537bdd043c6208ea22677
+Size: 2679
+Filename: debs/com.kurdosurce.afsocial.deb
+
 

@@ -61,7 +61,7 @@ Installed-Size: 2679
 Description: 
 Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
 MD5sum: 9d165462f1e537bdd043c6208ea22677
-Size: 2679000
+Size: 2679716
 Filename: debs/com.kurdsource.afsocial.deb
 
 Name: Apps Hacks
@@ -482,5 +482,233 @@ SomeOtherEntryToControl: True
 MD5sum: b64e31f37b85881d4ad506779166752c
 Size: 14458
 Filename: debs/com.kurdsource.ytadblock.deb
+
+Name: Amber
+Package: com.kurdsource.amber
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: PoomSmart
+Architecture: iphoneos-arm
+Installed-Size: 17
+Description: Amber-ify your LED torch.
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 11.0)
+Conflicts: com.ps.amber, com.hoangtuan.amber
+MD5sum: 74324f71beeb4a62fde3d860471507df
+Size: 16928
+Filename: debs/com.kurdsource.amber.deb
+
+Name: Appaze 2
+Package: com.kurdsource.appaze2
+Version: 1.3k
+Section: Tweaks
+Maintainer: Zekoios <Zekoiioss@gmail.com>
+Author: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch | com.hackyouriphone.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Installed-Size: 896
+Description: Customize volume/brightness/toggles per app, directly from 3DTouch menu
+Tags: compatible_min::ios11.0, compatible_max::ios14.5
+MD5sum: d8bcd93a886cb5b28814cc15f293ca66
+Size: 895968
+Filename: debs/com.kurdsource.appaze2.deb
+
+Name: Arc
+Package: com.kurdsource.arc
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Muirey03
+Author: Muirey03
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Architecture: iphoneos-arm
+Installed-Size: 617
+Description: 
+Icon: file:///Library/PreferenceBundles/ArcPrefs.bundle/Icon-Large.png
+MD5sum: 80f844234104711697fecda92649803d
+Size: 617362
+Filename: debs/com.kurdsource.arc.deb
+
+Name: Barmoji
+Package: com.kurdsource.barmoji
+Version: 2020.5
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 108
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+MD5sum: e1fb4188c5bdafc3840a5b6826ed56a3
+Size: 108022
+Filename: debs/com.kurdsource.barmoji.deb
+
+Name: CallBar XS (iOS 12/13/14)
+Package: com.kurdsource.callbarxs
+Version: 4.0-127
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions
+Architecture: iphoneos-arm
+Installed-Size: 542
+Description: Don't let incoming calls interrupt you!
+dev: limneos
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+MD5sum: b43afbe9091c6d7ba92eb4313044a1ec
+Size: 542056
+Filename: debs/com.kurdsource.callbarxs.deb
+
+Name: DismissProgress
+Package: com.kurdsource.dismissprogress
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: PoomSmart <poomst@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
+Architecture: iphoneos-arm
+Installed-Size: 9
+Description: Dismiss Cydia'a installation window without closing cydia.
+dev: poomst
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+MD5sum: fcd146650199fd3a0f15f3760e048b0d
+Size: 9198
+Filename: debs/com.kurdosurce.dismissprogress.deb
+
+Name: DockX
+Package: com.kurdsource.dockx
+Version: 2.4.2
+Section: Tweaks
+Maintainer: udevs
+Author: udevs
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=12.0), com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Installed-Size: 469
+Description: 
+Conflicts: com.restiveconch.actionbar
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+MD5sum: e7f67bcd8ef47049cf74a2086b4262f3
+Size: 468548
+Filename: debs/com.kurdosurce.dockx.deb
+
+Name: HideYourApps
+Package: com.kurdsource.hideyourapps
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Menushka Weeratunga
+Author: Menushka Weeratunga and Blake Boxberger
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Installed-Size: 34
+Description: Hide your apps
+MD5sum: df464970cb301056a429612a3d96679c
+Size: 33642
+Filename: debs/com.kurdosurce.hideyourapps.deb
+
+Name: Icon Renamer
+Package: com.kurdsource.iconrenamer
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Installed-Size: 27
+Description: Rename icons from your SpringBoard
+dev: rpetrich
+Tag: purpose::extension
+Replaces: netskao.iconrenamerx
+MD5sum: 46c27dbec40ca4477c880c1eef527445
+Size: 27418
+Filename: debs/com.kurdosurce.iconrenamer.deb
+
+Name: PMP
+Package: com.kurdsource.pmp
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: iKG_HD <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Installed-Size: 112
+Description: PMP Protect My Photos iOS 11/12/13/14
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios15.0
+Priority: optional
+Conflicts: com.yourepo.ikghd.pmp
+MD5sum: 119889af01d6e8729aeba283bfbbb28c
+Size: 111636
+Filename: debs/com.kurdosurce.pmp.deb
+            
+Name: PullOver Pro
+Package: com.kurdsource.PullOverPro
+Version: 2.1
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Author: c1d3r
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Installed-Size: 1859
+Description: .
+Priority: optional
+MD5sum: d8ceb80110ed418f5e403796e3d8aa43
+Size: 1859322
+Filename: debs/com.kurdosurce.PullOverPro.deb
+
+Name: Rhino
+Package: com.kurdsource.rhino
+Version: 3.9.2
+Priority: optional
+Section: Tweaks
+Maintainer: Zekoios <Zekoiioss@gmail.com>
+Author: Michael Lema <samewhitetee@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Installed-Size: 4098
+Description: Instagram++
+Icon: file:///Library/Application%20Support/Rhino.bundle/rhino-icon@2x.png
+Tag: purpose::extension
+MD5sum: 61fc7e1c001e1b8a194994e306ff0075
+Size: 4098550
+Filename: debs/com.kurdosurce.rhino.deb
+
+Name: Shuffle
+Package: com.kurdsource.shuffle
+Version: 1.6.1
+Section: Tweaks
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Depends: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Installed-Size: 573
+Description: Update your settings
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Tag: purpose::extension, compatible_min::ios10
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+MD5sum: 01ecaf18b2104a2c40002a27c67f7226
+Size: 572930
+Filename: debs/com.kurdosurce.shuffle.deb
+
+Name: Unicorn
+Package: com.kurdsource.unicorn
+Version: 5.3
+Section: Tweaks
+Maintainer: Zekoios <zekoiioss@gmail.com>
+Author: Michael Lema <samewhitetee@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Installed-Size: 995
+Description: Download TikTok Videos and many other enhancements!
+Tag: purpose::extension
+dev: lema
+Icon: file:///Library/Application%20Support/Unicorn/unicorn-icon.png
+Priority: optional
+MD5sum: b65dfaf5d3ed30eb66a0768ace7cd220
+Size: 994532
+Filename: debs/com.kurdosurce.unicorn.deb
 
 

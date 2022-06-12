@@ -1,0 +1,435 @@
+{
+    "version": "1.0",
+    "sourceName": "GBoxå®˜æ–¹è½¯ä»¶æº",
+    "sourceAuthor": "GBox Official",
+    "sourceLinkTitle": "ä¸»é¡µ",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "http://gbox.run/Public/images/source.png",
+    "sourceUpdateTime": "2022-06-11T10:15:00+0800",
+    "sourceDescription": "GBoxå®˜æ–¹è½¯ä»¶æºï¼Œæºå†…Appå‡æ¥ä¹‹äº’è”ç½‘ï¼Œä»…ç”¨äºŽå­¦ä¹ äº¤æµã€‚å¦‚æœ‰å†’çŠ¯ï¼Œè¯·è”ç³»åˆ é™¤ï¼Œé‚®ç®±ï¼šgboxrun@gmail.com",
+    "appCategories": [
+        "å·¥å…·",
+        "æ¨¡æ‹Ÿå™¨"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-06-09T11:45:00+0800",
+            "appName": "GBox",
+            "appVersion": "3.6.5",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzoub.com/iDC4B064mgwb",
+            "appDescription": "ç­¾åæ­¤AppåŽï¼Œç‚¹å‡»å®‰è£…ï¼Œé—ªé€€å³ä»£è¡¨å‡çº§æˆåŠŸï¼Œæ›´æ–°å†…å®¹:\n- é€‚é…iOS 16ç³»ç»Ÿçš„ç­¾åå’Œå®‰è£…"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-05-08T18:45:00+0800",
+            "appName": "GBox",
+            "appVersion": "3.3.5",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzouw.com/iS1FHp66z3a",
+            "appDescription": "5æœˆ08æ—¥æœ€æ–°ç‰ˆï¼Œç­¾åæ­¤AppåŽï¼Œç‚¹å‡»å®‰è£…ï¼Œé—ªé€€å³ä»£è¡¨å‡çº§æˆåŠŸï¼Œæ›´æ–°å†…å®¹:\n1. ä¼˜åŒ–ç­¾åå’Œå…¶ä»–ç»†èŠ‚åŠŸèƒ½"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-12-08T11:35:00+0800",
+            "appName": "GBox(æ”¯æŒè§†é¢‘ä¸‹è½½)",
+            "appVersion": "3.0.0",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzouw.com/iHyIzj5n7gf",
+            "appDescription": "æ”¯æŒç½‘é¡µè§†é¢‘ä¸‹è½½çš„ç‰ˆæœ¬ï¼Œç­¾ååŽå®‰è£…å³å¯"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-01-06T08:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "8.0.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/im8uDyfkmmd",
+            "appDescription": "æ”¯æŒA12-A13è®¾å¤‡çš„iOS 14.6-14.8ç³»ç»Ÿè¶Šç‹±\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-11-09T11:50:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "7.0.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/ih0bbwbcvab",
+            "appDescription": "åŒ…æ‹¬ Fugu14 è®¾å¤‡åœ¨å†…çš„æ‰€æœ‰ç‰ˆæœ¬çš„ä¸»è¦ç¨³å®šæ€§å’Œå¯é æ€§æ”¹è¿›\n\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-08-06T09:40:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.2.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/ilysYsadxih",
+            "appDescription": "æ”¹è¿›iOS 14çš„ç¨³å®šæ€§å’Œå¯é æ€§\n\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-04-15T16:30:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.1.3",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzoub.com/iomdq038qlkj",
+            "appDescription": "CoolStaræœ€æ–°å‡ºå“çš„è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-11-08T22:00:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.1.1",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/i8luOwax00f",
+            "appDescription": "æ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-06-12T12:15:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.6",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/i6w4Pqsmewh",
+            "appDescription": "ä¼˜åŒ–ç»†èŠ‚ï¼ŒCoolStaræœ€æ–°å‡ºå“çš„è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-06-07T10:15:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.5",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iKtdupw2cef",
+            "appDescription": "ä¼˜åŒ–ç»†èŠ‚ï¼ŒCoolStaræœ€æ–°å‡ºå“çš„è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-16T21:00:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.4",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iBBjto6ugyf",
+            "appDescription": "CoolStaræœ€æ–°å‡ºå“çš„è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-13T13:50:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.3",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iXSbho00o3g",
+            "appDescription": "CoolStaræœ€æ–°å‡ºå“çš„è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒå…¨ç³»åˆ—iOSè®¾å¤‡14.0ï½ž14.3ç³»ç»Ÿè¶Šç‹±"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-08T10:00:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iqPkzns3imj",
+            "appDescription": "1. ä¼˜åŒ–iOS 14ä¸Šçš„ç¨³å®šæ€§å’Œå¯é æ€§\n\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-03-07T17:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iRS71mmzvfa",
+            "appDescription": "1. ä¿®å¤å¹¶æ”¯æŒXcodeå¯¹appè¿›è¡Œè°ƒè¯•\n\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-07T17:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iQ6hlmiccqf",
+            "appDescription": "6.1.0 ç‰ˆæœ¬unC0ver"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-28T18:36:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.3.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iNiVDf2iygf",
+            "appDescription": "iOS è¶Šç‹±å·¥å…·ï¼Œæ”¯æŒiOS 11.0 - 13.5"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-09T13:56:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.2.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iYic7eg6t1g",
+            "appDescription": " Fixes include fixing jailbreak errors on A7 and A8 devices. (iOS and tvOS)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-16T13:45:00+0800",
+            "appName": "PlankFilza",
+            "appVersion": "3.8",
+            "appImage": "https://s3.ax1x.com/2021/02/16/yc1Xct.png",
+            "appPlist": "https://gbox.lanzouw.com/iMqiDlpzish",
+            "appDescription": "æ–‡ä»¶ç®¡ç†å™¨ï¼Œæ”¯æŒ iOS 14.0 ~ 14.3ç³»ç»Ÿï¼Œä½¿ç”¨æœ‰é£Žé™©ï¼Œè°¨æ…Žå®‰è£…"
+        },
+
+        {
+            "hide": true,
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-16T13:45:00+0800",
+            "appName": "cometjb",
+            "appVersion": "2.0",
+            "appImage": "https://s3.ax1x.com/2021/02/16/yc3eBT.png",
+            "appPlist": "https://gbox.lanzouw.com/ijA1xlq1def",
+            "appDescription": "è¶Šç‹±å·¥å…·(åŠæˆå“)ï¼Œä»…èŽ·å–rootæƒé™ï¼Œå¯ä½¿ç”¨sshå®‰è£…æ’ä»¶"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-02-01T10:00:00+0800",
+            "appName": "å¥¥å¾·èµ›(Odyssey)",
+            "appVersion": "1.4.1",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzouw.com/iNQYlzi23ng",
+            "appDescription": "å¥¥å¾·èµ›æœ€æ–°ç‰ˆ"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-03-03T10:00:00+0800",
+            "appName": "å¥¥å¾·èµ›(Odyssey)",
+            "appVersion": "1.3",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzouw.com/iyaExmeized",
+            "appDescription": "æ”¯æŒiOS 13.0-13.7è¶Šç‹±ï¼Œä¼˜åŒ–ç¨³å®šæ€§"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-11-27T14:23:00+0800",
+            "appName": "å¥¥å¾·èµ›(Odyssey)",
+            "appVersion": "1.2.2",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzouw.com/iX3veitm75g",
+            "appDescription": "æ”¯æŒiOS 13.0-13.7è¶Šç‹±(æœ€æ–°ç‰ˆv1.2.2æ”¯æŒA8/A9)\nä¸ºäº†èŽ·å¾—æœ€ä½³ç»“æžœï¼Œè¯·é‡å¯è®¾å¤‡å¹¶ç­‰å¾…15ç§’é’Ÿï¼Œç„¶åŽå†è¿è¡Œè¶Šç‹±ã€‚ å¦‚æžœæ— æ³•è¿è¡Œï¼Œè¯·ç¡®ä¿é‡æ–°å¯åŠ¨åŽç­‰å¾…15ç§’é’Ÿï¼Œç„¶åŽå†è¿è¡Œå®ƒã€‚"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-11-10T15:46:00+0800",
+            "appName": "å¥¥å¾·èµ›(Odyssey)",
+            "appVersion": "1.1.2",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzouw.com/i8Ue0i96kra",
+            "appDescription": "å¥¥å¾·èµ›æœ€æ–°ç‰ˆï¼Œéœ€è‡ªè¡Œç­¾åå®‰è£…"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-04-26T21:50:00+0800",
+            "appName": "ç­¾åæµ‹è¯•",
+            "appVersion": "1.0",
+            "appImage": "https://s1.ax1x.com/2020/04/26/J2LKW4.png",
+            "appPackage": "http://gbox.run/Public/apps/Test.ipa",
+            "appDescription": "åœ¨GBoxè¯ä¹¦ç®¡ç†é¡µé¢é€‰æ‹©å…¶ä¸­ä¸€æœ¬è¯ä¹¦ï¼Œå…ˆç­¾åæ­¤åŒ…å†å®‰è£…ï¼Œå¦‚æžœèƒ½æ­£å¸¸æ‰“å¼€ï¼Œåˆ™è¯æ˜Žç­¾åæµç¨‹å’Œè¯ä¹¦æœ‰æ•ˆ"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-05-21T16:30:00+0800",
+            "appName": "AppCake",
+            "appVersion": "7.2.2",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woHjZq.png",
+            "appPlist": "https://wwu.lanzouy.com/iMWCB057dp9a",
+            "appDescription": "å›½å¤–ç¬¬ä¸‰æ–¹Appså•†åº—ã€‚å·²åŽ»å¹¿å‘Šï¼Œæ— éœ€èŽ·å–udidå³å¯ç”¨"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-20T12:20:00+0800",
+            "appName": "ipaä¸‹è½½å™¨",
+            "appVersion": "1.0",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woLYRS.png",
+            "appPlist": "https://gbox.lanzouw.com/iik9mgs90oh",
+            "appDescription": "ipaæå–å·¥å…·"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SHAREING",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-26T09:30:00+0800",
+            "appName": "Price Tag",
+            "appVersion": "2.3.1",
+            "appImage": "https://bbsimg.joyslink.com/2018/04/19/14443676_246x0w.jpg",
+            "appPlist": "https://gbox.lanzouw.com/i89vukd",
+            "appDescription": "iOS13ä¸æ”¯æŒ, æ— é¡»ç­¾åç›´æŽ¥å®‰è£…ï¼Œç„¶åŽåœ¨App Storeç™»å½•æ­¤è´¦å·å³å¯ï¼š\n(åˆ‡å‹¿åœ¨ç³»ç»Ÿè®¾ç½®ç™»å½•ï¼Œå¦åˆ™æœ‰å¯èƒ½è¢«é”æœº)\nshare1313@163.com\nLaoapp922"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-30T10:30:00+0800",
+            "appName": "Filza",
+            "appVersion": "3.6",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Apps/filza/filza.png",
+            "appPlist": "https://gbox.lanzouw.com/i8cic2h",
+            "appDescription": "å¼ºå¤§çš„æ–‡ä»¶ç®¡ç†å™¨ï¼Œå…è¶Šç‹±è®¿é—®ç³»ç»Ÿå…¨è·¯å¾„ï¼Œæ”¯æŒiOS11 ~ iOS12ï¼Œéƒ¨åˆ†æœºåž‹æ‰“å¼€é—ªé€€"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-09-15T15:26:00+0800",
+            "appName": "å°é¸¡æ¨¡æ‹Ÿå™¨",
+            "appVersion": "1.5.9",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woqk9S.png",
+            "appPackage": "http://dl.xiaoji001.com/download/ios/xiaoji_org.ipa",
+            "appDescription": "éœ€è¦iOS 11æˆ–ä»¥ä¸Šç³»ç»Ÿ"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-12T10:35:00+0800",
+            "appName": "RetroArch",
+            "appVersion": "1.8.9",
+            "appImage": "https://s1.ax1x.com/2020/07/12/U1xnkq.png",
+            "appPackage": "https://buildbot.libretro.com/stable/1.8.9/apple/ios/RetroArch.ipa",
+            "appDescription": "å„ç§æŽŒæœºæ¨¡æ‹Ÿå™¨é›†åˆ"
+        },
+
+        {
+            "appType": "SHAREING",
+            "appCateIndex": 1,
+            "appUpdateTime": "2021-11-27T23:16:00+0800",
+            "appName": "Dolpin(æµ·è±šæ¨¡æ‹Ÿå™¨)",
+            "appVersion": "3.1.1",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDgeKg.png",
+            "appPlist": "https://gbox.lanzouw.com/iAyCLwz0c0j",
+            "appDescription": "GameCube, Wiiæ¨¡æ‹Ÿå™¨ã€‚\néžè¶Šç‹±è®¾å¤‡ç­¾åå³å¯å®‰è£…ï¼Œç†è®ºä¸Šæ”¯æŒiOS 12 ï½ž iOS 14.3ç³»ç»Ÿï¼Œ15.1ä»¥ä¸‹ç³»ç»Ÿæˆ–è®¸å¯ä»¥ï¼Œä½†æœªç»æµ‹è¯•ï¼Œè¯·æ‚‰çŸ¥ã€‚"
+        },
+        
+        {
+            "appType": "SHAREING",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-16T17:45:00+0800",
+            "appName": "Dolpin",
+            "appVersion": "3.0.0",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDgeKg.png",
+            "appPlist": "https://gbox.lanzouw.com/iNsFFennwbi",
+            "appDescription": "GameCube, Wiiæ¨¡æ‹Ÿå™¨(å¿…é¡»è¶Šç‹±ï¼Œæ— é¡»ç­¾åç›´æŽ¥å®‰è£…)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "PPSSPP",
+            "appVersion": "1.6.3",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwBNj.png",
+            "appPlist":"https://gbox.lanzouw.com/i7ys8da",
+            "appDescription": "PSPæ¨¡æ‹Ÿå™¨"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-04-20T18:00:00+0800",
+            "appName": "iNDS",
+            "appVersion": "1.10.7",
+            "appImage": "https://s1.ax1x.com/2020/04/20/JljV9x.png",
+            "appPlist":"https://gbox.lanzouw.com/ibnbglc",
+            "appDescription": "NDSæ¨¡æ‹Ÿå™¨"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-12-08T11:35:00+0800",
+            "appName": "Delta",
+            "appVersion": "1.1.2",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwT81.png",
+            "appPlist":"https://gbox.lanzouw.com/i9OGDj5nawj",
+            "appDescription": "æ”¯æŒGBA, GBC, N64, SNES, NES, Segaç­‰æ¨¡æ‹Ÿå™¨"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-05-21T23:50:00+0800",
+            "appName": "å‰é‡Œå‰é‡Œ",
+            "appVersion": "1.3.9",
+            "appImage": "https://s2.ax1x.com/2020/02/22/3MLXVI.png",
+            "appPlist": "https://gbox.lanzoub.com/iGbwM058c1qd",
+            "appDescription": "å‰é‡Œå‰é‡Œ(KrKr)æ¨¡æ‹Ÿå™¨ï¼ŒçŽ©GALæ¸¸æˆçš„å¿…å¤‡ç¥žå™¨ã€‚"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-06-11T10:15:00+0800",
+            "appName": "PokeMMO",
+            "appVersion": "20375",
+            "appImage": "https://gbox.pub/Public/appicons/PokeMMO.png",
+            "appPlist": "https://gbox.lanzoub.com/iTKMR0681wib",
+            "appDescription": "PokeMMO æ˜¯ä¸€æ¬¾å¤§åž‹å¤šäººåœ¨çº¿å£è¢‹å¦–æ€ªæ¸¸æˆï¼Œä¾èµ–äºŽç«çº¢ã€é»‘/ç™½ã€ç»¿å®çŸ³ å’Œ ç™½é‡‘ ROM\n(PokeMMO is a Massive Multiplayer Online Pokemon game relying on Pokemon FireRed, Black/White, Emerald, and Platinum ROMs)"
+        }
+    ]
+}
